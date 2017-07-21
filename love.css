@@ -1,0 +1,16 @@
+body{background: #E6CAE0;}
+
+#intro {
+    text-align: center;
+    font-size: 30px;
+    }
+    
+    .smaller_font{
+ font-size: 20px;   
+    }
+    
+  img{
+    text-align: center;
+    width: 400px;
+    height: 350px;
+}
