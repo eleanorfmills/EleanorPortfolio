@@ -1,0 +1,47 @@
+#wrapper {  
+    height: 1000px;
+    width: 1000px;
+    background: #3297AC;
+    color: white;
+    font-family: "century gothic";
+    font-size: 40px;
+    text-align: center;
+}
+
+.smaller_font{
+ font-size: 20px;   
+ 
+}
+img{
+     width: 500px;
+     height: 350px;}
+    
+
+#head {   
+    height: 225px;
+    width: 1000px;
+    background: #3297AC;
+}
+        
+#left {   
+    height: 750px;
+    width: 500px;
+    background: #E6CAE0;
+    float: left;
+    color: #3297AC;
+}
+
+ #right {   
+    height: 393px;
+    width: 500px;
+    background: #E5446D;
+    float: right;
+     color: #E6CAE0; 
+
+}
+
+#wrapper {color: white;
+font-family: "century gothic";
+font-size: 33px;
+text-align: center;
+}
